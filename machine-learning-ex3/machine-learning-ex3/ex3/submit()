@@ -1,0 +1,12 @@
+ Volume in drive D is New Volume
+ Volume Serial Number is 1471-E7B1
+
+ Directory of d:\_Code\MachineLearning\Coursera(ML)\machine-learning-ex3\machine-learning-ex3\ex3
+
+[.]                 ex3weights.mat      oneVsAll.m          temp.m
+[..]                ex3_nn.m            predict.m           
+displayData.m       fmincg.m            predictOneVsAll.m   
+ex3.m               [lib]               sigmoid.m           
+ex3data1.mat        lrCostFunction.m    submit.m            
+              13 File(s)      7,615,019 bytes
+               3 Dir(s)  1,314,002,755,584 bytes free
