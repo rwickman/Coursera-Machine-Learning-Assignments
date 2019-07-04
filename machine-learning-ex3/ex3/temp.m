@@ -1,4 +1,6 @@
-x = [1,1,1];
-y = [1,1];
-disp([0,y])
-disp(x + [0,y]);
+x = [1 2 3 ; 1 4 3]
+
+[i, iw] = max(x, [], 2)
+disp(i)
+disp(iw)
+disp(x)
